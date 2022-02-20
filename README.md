@@ -18,6 +18,12 @@ bundle install
 jekyll serve --watch
 ```
 
+## Testing
+
+```bash
+bundle exec rspec
+```
+
 ## Adding a blog post
 
 ```bash
